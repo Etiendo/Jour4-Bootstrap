@@ -36,3 +36,24 @@ a {
     color: rgb(118, 118, 118);
     font-size: 14px;
 }
+
+.title {
+	color: #ff5a5f;
+	font-weight: 900;
+
+}
+
+.pitch {
+	color: #555;
+	font-weight: 100;
+}
+
+.navright {
+	font-size: 14px;
+}
+
+.navright a:hover {
+		color: #555;
+		padding-bottom: 5px;
+		border-bottom: 2px solid #555;
+}
